@@ -13,6 +13,8 @@ namespace test
             Console.WriteLine("Hello world");
             Console.Write("Hello world");
             Console.WriteLine("Hello world");
+            Console.Write("Hello world");
+            Console.WriteLine("Hello world");
         }
     }
 }
